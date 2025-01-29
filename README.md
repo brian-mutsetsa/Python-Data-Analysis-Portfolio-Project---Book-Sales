@@ -13,7 +13,7 @@ This project focuses on exploring a dataset of books to uncover patterns, trends
 
 ## Files
 - Dataset: **Books_Data_clean.csv** [Download Cleaned Dataset](https://github.com/brian-mutsetsa/Python-Data-Analysis-Portfolio-Project---Book-Sales/edit/main/Books_Data_Clean.xlsx) [Download Original Dataset On Kaggle](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings?resource=download)
-- Jupyter Notebook: **code.ipynb** [![View Notebook](https://github.com/brian-mutsetsa/Python-Data-Analysis-Portfolio-Project---Book-Sales/edit/main/code.ipynb)
+- Jupyter Notebook: **code.ipynb** [View Notebook](https://github.com/brian-mutsetsa/Python-Data-Analysis-Portfolio-Project---Book-Sales/edit/main/code.ipynb)
 
 ## Key Insights
 1. **Distribution of Ratings**
